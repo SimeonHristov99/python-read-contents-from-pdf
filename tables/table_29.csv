@@ -1,0 +1,36 @@
+Index,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Carrying,Fair
+0,Presented in EUR (000),Level 1,Level 2,Level 3,Amount,value
+1,Assets,,,,,
+2,Cash and due from banks,"170,175",-,-,"170,175","170,175"
+3,Deposits in margin accounts,"30,740",-,-,"30,740","30,740"
+4,Loans at amortized cost,"294,330",-,"2,035,094","2,329,424","2,335,855"
+5,Accrued interest receivable,-,-,"27,181","27,181","27,181"
+6,Other assets,-,-,"15,954","15,954","15,954"
+7,Total financial assets,"495,245",-,"2,078,229","2,573,474","2,579,905"
+8,,,,,,
+9,Liabilities,,,,,
+10,Borrowings,"438,293","1,836,108",-,"2,274,401","2,299,564"
+11,Margin accounts,"16,590",-,-,"16,590","16,590"
+12,Other and lease liabilities,-,"8,684","1,616","10,300","10,300"
+13,Total financial liabilities,"454,883","1,844,792","1,616","2,301,291","2,326,454"
+14,,,,,,
+15,,,,,,
+16,,,,,,
+17,,,,At,,
+18,,,,31 December,,
+19,,,,2020,,
+20,,,,,Carrying,Fair
+21,Presented in EUR (000),Level 1,Level 2,Level 3,Amount,value
+22,Assets,,,,,
+23,Cash and due from banks,"34,328",-,-,"34,328","34,328"
+24,Deposits in margin accounts,"26,240",-,-,"26,240","26,240"
+25,Loans at amortized cost,"267,588",-,"1,762,808","2,030,396","2,040,565"
+26,Accrued interest receivable,-,-,"23,512","23,512","23,512"
+27,Other assets,-,-,"9,490","9,490","9,490"
+28,Total financial assets,"328,156",-,"1,795,810","2,123,966","2,134,135"
+29,,,,,,
+30,Liabilities,,,,,
+31,Borrowings,"315,992","1,585,722",-,"1,901,714","1,925,648"
+32,Margin accounts,"22,920",-,-,"22,920","22,920"
+33,Other and lease liabilities,-,"11,742",-,"11,742","11,742"
+34,Total financial liabilities,"338,912","1,597,464",-,"1,936,376","1,960,310"

@@ -1,0 +1,22 @@
+Index,At 31 December 2021,Unnamed: 0,From 1,From 3,From 1.1,Unnamed: 1,Non-,Unnamed: 2
+0,,Up to 1,month to,months,year to,Over,interest,
+1,Presented in EUR (000),month,3 months,to 1 year,5 years,5 years,bearing,Total
+2,Assets,,,,,,,
+3,Cash and due from banks,"170,174",-,-,-,-,1,"170,175"
+4,Deposits in margin accounts,-,-,-,-,-,"30,740","30,740"
+5,Debt investment securities,"166,545","242,122","123,561","120,220",-,-,"652,448"
+6,Derivative financial instruments,-,-,-,"23,782",497,-,"24,279"
+7,Loans,"436,401","429,322","667,522","811,193",-,-,"2,344,438"
+8,Equity investments,-,-,-,-,-,"25,777","25,777"
+9,Accrued interest receivable,-,-,-,-,-,"27,181","27,181"
+10,Other assets,-,-,-,-,-,"15,954","15,954"
+11,Total,"773,120","671,444","791,083","955,195",497,"99,653","3,290,992"
+12,,,,,,,,
+13,Liabilities,,,,,,,
+14,Borrowings,"22,073","266,343","450,956","1,524,093",-,"10,936","2,274,401"
+15,Margin accounts,-,-,-,-,-,"16,590","16,590"
+16,Derivative financial instruments,,"1,854","3,087","14,732","26,196",-,"45,869"
+17,Other and lease liabilities,-,-,-,-,-,"10,300","10,300"
+18,Total,"22,073","268,197","454,043","1,538,825","26,196","37,826","2,347,160"
+19,,,,,,,,
+20,Interest rate risk at 31 December 2021,"751,047","403,247","337,040","(583,630)","(25,699)","61,827","943,832"

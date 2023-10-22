@@ -1,0 +1,51 @@
+Index,At 31 December 2021,Unnamed: 0,United,Unnamed: 1,Unnamed: 2,Unnamed: 3
+0,,,States,Swiss,,
+1,Presented in EUR (000),Euro,dollar,franc,Other,Total
+2,Assets,,,,,
+3,Cash and due from banks,"79,921","88,793",-,"1,461","170,175"
+4,Deposits in margin accounts,"30,740",-,-,-,"30,740"
+5,Debt investment securities,"375,444","277,004",-,-,"652,448"
+6,Derivative financial instruments,"7,914","15,394",-,971,"24,279"
+7,Loans,"1,565,941","703,859",-,"74,638","2,344,438"
+8,Deferred income,"(9,724)","(4,694)",-,(282),"(14,700)"
+9,Impairment losses on loans,"(38,510)","(1,574)",-,"(4,139)","(44,223)"
+10,Equity investments,"12,588","13,109",-,80,"25,777"
+11,Accrued interest receivable,"12,830","8,103",-,"6,248","27,181"
+12,Other assets,"13,293","2,168",331,162,"15,954"
+13,Total,"2,050,437","1,102,162",331,"79,139","3,232,069"
+14,,,,,,
+15,Liabilities,,,,,
+16,Borrowings,"443,098","998,702","339,530","493,071","2,274,401"
+17,Margin accounts,"16,590",-,-,-,"16,590"
+18,Derivative financial instruments,"29,261","16,608",-,-,"45,869"
+19,Other and lease liabilities,"10,300",-,-,-,"10,300"
+20,Total,"499,249","1,015,310","339,530","493,071","2,347,160"
+21,,,,,,
+22,Currency balance at 31 December 2021,"1,551,188","86,852","(339,199)","(413,932)","884,909"
+23,,,,,,
+24,,,,,,
+25,,,,,,
+26,At 31 December 2020,,United,,,
+27,,,States,Swiss,,
+28,Presented in EUR (000),Euro,dollar,franc,Other,Total
+29,Assets,,,,,
+30,Cash and due from banks,"6,507","26,785",-,"1,036","34,328"
+31,Deposits in margin accounts,"26,240",-,-,-,"26,240"
+32,Debt investment securities,"485,640","202,321",-,-,"687,961"
+33,Derivative financial instruments,"2,667","23,141",-,893,"26,701"
+34,Loans,"1,275,916","562,747",-,"204,258","2,042,921"
+35,Deferred income,"(9,336)","(3,988)",-,(489),"(13,813)"
+36,Impairment losses on loans,"(48,495)","(3,083)",-,"(4,359)","(55,937)"
+37,Equity investments,"10,851","15,374",-,85,"26,310"
+38,Accrued interest receivable,"7,596","9,580",16,"6,320","23,512"
+39,Other assets,"6,372","2,308",535,275,"9,490"
+40,Total,"1,763,958","835,185",551,"208,019","2,807,713"
+41,,,,,,
+42,Liabilities,,,,,
+43,Borrowings,"342,087","1,042,201","185,697","331,729","1,901,714"
+44,Margin accounts,"22,920",-,-,-,"22,920"
+45,Derivative financial instruments,"15,812","10,107",-,"3,016","28,935"
+46,Other and lease liabilities,"11,742",-,-,-,"11,742"
+47,Total,"392,561","1,052,308","185,697","334,745","1,965,311"
+48,,,,,,
+49,Currency balance at 31 December 2020,"1,371,397","(217,123)","(185,146)","(126,726)","842,402"
